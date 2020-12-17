@@ -1,0 +1,109 @@
+,Professor,Title,Field,Homepage,Email,Phone Number,Address
+1,Dana Ballard,Professor,Artificial Intelligence,https://www.cs.utexas.edu/~dana/,dana@cs.utexas.edu,(512) 471-9750,GDC 3.510
+2, Joydeep Biswas,Assistant Professor,Artificial Intelligence,http://www.joydeepb.com/,joydeepb@cs.utexas.edu,N/A,GDC 3.512
+3,William Bulko,Assistant Professor of Instruction,Artificial Intelligence,http://www.cs.utexas.edu/~bulko/,bulko@cs.utexas.edu,(512) 471-7021,GDC 4.308
+4,Anna Chaney,Assistant Professor of Instruction,Artificial Intelligence,N/A,chaney@cs.utexas.edu,N/A,GDC 4.306
+5,Swarat Chaudhuri,Associate Professor,Artificial Intelligence,http://www.cs.utexas.edu/~swarat/,swarat@cs.utexas.edu,N/A,N/A
+6,Inderjit Dhillon,Gottesman Family Centennial Professorship In Computer Sciences,Artificial Intelligence,http://www.cs.utexas.edu/users/inderjit/index.shtml,inderjit@cs.utexas.edu ,(512) 471-9725,GDC 4.704
+7,Isil Dillig, Associate Professor,Artificial Intelligence,http://www.cs.utexas.edu/~isil/,isil@cs.utexas.edu   ,(512) 471-9794,GDC 5.726
+8,Greg Durrett,Assistant Professor,Artificial Intelligence,http://www.cs.utexas.edu/~gdurrett/,gdurrett@cs.utexas.edu ,(607) 342-8276,GDC 3.812
+9,Hans Ulrich Grasemann,Research Scientist,Artificial Intelligence,http://www.cs.utexas.edu/users/uli/,uli@cs.utexas.edu ,N/A,GDC 3.726
+10,Kristen Grauman,"Professor, Professorship in Computer Sciences #4",Artificial Intelligence,http://www.cs.utexas.edu/users/grauman/,grauman@cs.utexas.edu ,(512) 471-9521,GDC 4.726
+11,Justin Hart,Assistant Professor of Practice,Artificial Intelligence,http://justinhart.net,hart@cs.utexas.edu,(512) 998-1757,GDC 3.402
+12,David Harwath,Assistant Professor,Artificial Intelligence,https://www.cs.utexas.edu/~harwath/,harwath@cs.utexas.edu,N/A,GDC 3.808
+13,Qixing Huang,"Assistant Professor, Faculty Fellowship #1 in Computer Sciences",Artificial Intelligence,http://www.cs.utexas.edu/~huangqx/,huangqx@cs.utexas.edu,(512) 475-9594,GDC 5.422
+14,Alexander Huth,Assistant Professor,Artificial Intelligence,http://alexghuth.com,http://alexghuth.com,N/A,NHB 3.134
+15,Adam Klivans,Professor,Artificial Intelligence,http://www.cs.utexas.edu/~klivans/,klivans@cs.utexas.edu,(512) 471-9790,GDC 4.826
+16,Philipp Krähenbühl,"Assistant Professor, Faculty Fellowship #8 in Computer Sciences, Zeitlin Fellow",Artificial Intelligence,http://www.philkr.net,philkr@cs.utexas.edu,(512) 471-9598,GDC 4.824
+17,Vladimir Lifschitz,"Professor, Professorship In Computer Sciences #2",Artificial Intelligence,http://www.cs.utexas.edu/~vl/, vl@cs.utexas.edu,(512) 471-9564,GDC 3.808
+18,Risto Miikkulainen,Professor,Artificial Intelligence,http://www.cs.utexas.edu/~risto/,risto@cs.utexas.edu,(512) 471-9571,GDC 3.826
+19,Raymond Mooney,"Professor, Professorship In Computer Sciences #3",Artificial Intelligence,http://www.cs.utexas.edu/~mooney/,mooney@cs.utexas.edu,(512) 471-9558,GDC 3.512
+20,Scott Niekum,"Assistant Professor, Faculty Fellowship #9 In Computer Sciences",Artificial Intelligence,http://www.cs.utexas.edu/~sniekum/,sniekum@cs.utexas.edu ,(512) 232-7471,GDC 3.404
+21,Gordon Novak,Professor,Artificial Intelligence,http://www.cs.utexas.edu/~novak/,novak@cs.utexas.edu,(512) 471-9569,GDC 3.824
+22,Bruce Porter,Professor,Artificial Intelligence,http://www.cs.utexas.edu/~porter/,porter@cs.utexas.edu,(512) 471-9565,GDC 3.704
+23,Peter Stone,"David Bruton, Jr. Centennial Professor and University Distinguished Teaching Professor",Artificial Intelligence,https://www.cs.utexas.edu/~pstone/,pstone@cs.utexas.edu ,(512) 471-9796,GDC 3.508
+24,Xuesu Xiao,Postdoctoral Fellow,Artificial Intelligence,https://www.cs.utexas.edu/~xiao/,xiao@cs.utexas.edu,(512) 471-9765,GDC 3.418
+25,Harel Yedidsion,Postdoctoral Fellow,Artificial Intelligence,https://www.cs.utexas.edu/users/ai-lab/people-view.php?PID=481,harel@cs.utexas.edu,(512) 232-7467,GDC 3.432
+26,Yuke Zhu,Assistant Professor,Artificial Intelligence,http://ai.stanford.edu/~yukez/,N/A,N/A,N/A
+27,Andrew Whinston,Hugh Roy Cullen Centennial Chair in Business Administration,Artificial Intelligence,https://www.mccombs.utexas.edu/Directory/Profiles/Whinston-Andrew,abw@uts.cc.utexas.edu ,(512) 471-8879,CBA 3.240
+28,Chandrajit Bajaj,"Professor, Computational Applied Mathematics Chair in Visualization",Bioinformatics and Computational Biology,http://www.cs.utexas.edu/users/bajaj/cvc/index.shtml,bajaj@cs.utexas.edu ,(512) 471-8870,POB 2.324A
+29,Warren Hunt Jr. ,Professor,Bioinformatics and Computational Biology,http://www.cs.utexas.edu/~hunt/,hunt@cs.utexas.edu,(512) 471-9748,GDC 7.818
+30,Chand John,Assistant Professor of Instruction,Bioinformatics and Computational Biology,https://www.cs.utexas.edu/~chand/,chand@cs.utexas.edu,(512) 471-9544,GDC 6.402
+31,Daniel P.  Miranker,Professor,Bioinformatics and Computational Biology,http://www.cs.utexas.edu/~miranker/index.html,miranker@cs.utexas.edu,(512) 471-9541,GDC 5.436
+32,Bill Press,Professor,Bioinformatics and Computational Biology,http://numerical.recipes/whp/,wpress@cs.utexas.edu  ,(512) 232-4022,POB 3.258
+33,Siddhartha Chatterjee,Professor of Instruction,Computer Architecture,https://www.cs.utexas.edu/~sidchat,sidchat@cs.utexas.edu,(512) 471-9722,GDC 4.314
+34,Don Fussell,"Department Chair, Professor, Trammell Crow Regents Professorship in Computer Science",Computer Architecture,http://www.cs.utexas.edu/~fussell/, fussell@cs.utexas.edu ,(512) 471-9590,GDC 2.308
+35,Ahmed Gheith,Adjunct Assistant Professor,Computer Architecture,N/A,ahmedg@us.ibm.com,(512) 471-9529,GDC 5.320
+36,Stephen Keckler,Adjunct Professor,Computer Architecture,http://www.cs.utexas.edu/~skeckler/,skleckler@cs.utexas.edu,(512) 471-9529,GDC 5.320
+37,Calvin Lin,Professor,Computer Architecture,http://www.cs.utexas.edu/~lin/,lin@cs.utexas.edu,(512) 471-9560,GDC 5.512
+38,Emmett Witchel,"Professor, Faculty Fellowship #3 In Computer Sciences",Computer Architecture,http://www.cs.utexas.edu/~witchel/,witchel@cs.utexas.edu,(512) 232-7889,GDC 6.432
+39,Lizy K John,Cullen Trust for Higher Education Endowed Professor,Computer Architecture,http://users.ece.utexas.edu/~ljohn/,ljohn@ece.utexas.edu,(512) 232-1455,EER 5.876
+40,Yale N. Patt,"Professor, Department of Electrical and Computer Engineering",Computer Architecture,http://users.ece.utexas.edu/~patt/,patt@ece.utexas.edu ,(512) 471-4085,EER 5.802
+41,Eunsol Choi,Assistant Professor,"Data Mining, Machine Learning, and Natural Computation",https://homes.cs.washington.edu/~eunsol/,N/A,N/A,N/A
+42,Qiang Liu,"Assistant Professor, Faculty Fellowship #7 in Computer Science","Data Mining, Machine Learning, and Natural Computation",https://www.cs.utexas.edu/~lqiang/,lqiang@cs.utexas.edu,N/A,GDC 4.806
+43,Shyamal Mitra,Associate Professor of Instruction,"Data Mining, Machine Learning, and Natural Computation",http://www.cs.utexas.edu/~mitra/,mitra@cs.utexas.edu,(512) 471-9708,GDC 6.320
+44,Cem Tutum,Research Scientist,"Data Mining, Machine Learning, and Natural Computation",https://sites.google.com/site/cemctutum/,tutum@cs.utexas.edu ,N/A,GDC 3.810
+45,Joydeep Ghosh,Schlumberger Centennial Chair in Electrical Engineering Professor,"Data Mining, Machine Learning, and Natural Computation",http://www.ideal.ece.utexas.edu/~ghosh/,jghosh@utexas.edu,(512) 471-8980,EER 6.812
+46,Rudolf Lioutikov,"Assistant Professor of Practice, College of Natural Sciences","Data Mining, Machine Learning, and Natural Computation",https://www.ias.informatik.tu-darmstadt.de/Team/RudolfLioutikov,rudi@robot-learning.de ,N/A,N/A
+47,Don Batory ,"Professor, David Bruton, Jr. Centennial Professorship In Computer Sciences #1",Formal Methods,https://www.cs.utexas.edu/~dsb/,batory@cs.utexas.edu ,(512) 471-9713,GDC 5.826
+48,James Bornholt,Assistant Professor,Formal Methods,N/A,N/A,N/A,N/A
+49,E. Allen Emerson,Regents Chair Emeritus in Computer Science #2,Formal Methods,http://www.cs.utexas.edu/users/emerson/,emerson@cs.utexas.edu,(512) 471-9537,GDC 3.720
+50,Jayadev Misra,Schlumberger Centennial Chair Emeritus and University Distinguished Teaching Professor Emeritus,Formal Methods,http://www.cs.utexas.edu/users/misra/,misra@utexas.edu,(512) 471-9550,GDC 7.722
+51,Margaret Myers,Lecturer,Formal Methods,http://www.cs.utexas.edu/users/myers/,myers@cs.utexas.edu,(512) 471-9533,GDC 5.706
+52,Sarah Abraham,Assistant Professor of Instruction,Graphics and Visualization,http://www.cs.utexas.edu/~theshark/,theshark@cs.utexas.edu,N/A,GDC 5.420
+53,Etienne Vouga,Assistant Professor,Graphics and Visualization,http://www.cs.utexas.edu/~evouga/,evouga@cs.utexas.edu,(512) 232-7482,GDC 5.508
+54,William Cook,"Associate Professor, Faculty Fellowship #2 In Computer Sciences",Model Driven Engineering,http://www.cs.utexas.edu/%7Ewcook/,wcook@cs.utexas.edu ,(512) 471-9555,GDC 5.824 
+55,Aloysius K. Mok,"Professor, Quincy Lee Centennial Professorship In Computer Science",Model Driven Engineering,http://www.cs.utexas.edu/~mok/mok.html,mok@cs.utexas.edu,(512) 471-9542,GDC 6.512
+56,Yosi Atia,Postdoctoral Researcher,N/A,N/A,yosiat@cs.utexas.edu,N/A,N/A
+57,Joshua Baer,Entrepreneur in Residence,N/A,https://www.cs.utexas.edu/node/70817,joshuabaer@utexas.edu,N/A,GDC
+58,Angela Beasley,Assistant Professor of Instruction,N/A,https://www.cs.utexas.edu/~beasley/, angie.beasley@utexas.edu,(512) 471-7075,GDC 6.314
+59,Robert Boyer,"Professor Emeritus in Computer Science #4, Professor Emeritus in Computer Science #5",N/A,http://www.cs.utexas.edu/~boyer/,boyer@cs.utexas.edu,N/A,N/A
+60,Shirley Cohen,Adjunct Assistant Professor,N/A,https://www.cs.utexas.edu/~scohen/index.html,scohen@cs.utexas.edu,(512) 471-7021,GDC 4.314
+61,Glenn Downing,Assistant Professor of Instruction,N/A,http://www.cs.utexas.edu/users/downing/, downing@cs.utexas.edu ,(512) 471-9737,GDC 6.308
+62,Fares Fraij,Assistant Professor of Instruction ,N/A,http://www.cs.utexas.edu/~fares/,fares@cs.utexas.edu ,(512) 471-9512,GDC 4.310
+63,Devdatta Kulkarni,Assistant Professor of Instruction,N/A,http://www.cs.utexas.edu/~devdatta/,devdatta@cs.utexas.edu,N/A,GDC 4.812
+64,Karen Landolt,Assistant Professor of Instruction,N/A,https://www.mccombs.utexas.edu/Directory/Profiles/Landolt-Karen,karen.landolt@mccombs.utexas.edu,(512) 232-8193,CBA 3.446
+65,Reuth Mirsky,Research Fellow,N/A,https://sites.google.com/site/dekelreuth/,reuthde@gmail.com ,N/A,GDC 3.422
+66,J Strother Moore,Admiral B.R. Inman Centennial Chair Emeritus in Computing Theory,N/A,http://www.cs.utexas.edu/~moore/, Moore@cs.utexas.edu ,(512) 471-9568,GDC 7.802
+67,Alison Norman, Associate Professor of Instruction,N/A,http://www.cs.utexas.edu/~ans/,ans@cs.utexas.edu,(512) 232-7439,GDC 6.310
+68,Devangi Parikh,Assistant Professor of Instruction,N/A,http://devangi.parikh@utexas.edu,N/A,N/A,N/A
+69,Tina Peterson,Assistant Professor of Practice,N/A,https://www.tinalpeterson.com/cv.html,peterson@cs.utexas.edu,N/A,N/A
+70,Melinda Price,Executive Director of Commercialization of Health Ecosystem at Dell Medical School and Managing Director of Texas Health CoLab,N/A,https://dellmed.utexas.edu/directory/mellie-price,mellie.price@austin.utexas.edu,(512) 495-5123,HTB 10.230
+71,Chris Prosise,Adjunct Assistant Professor,N/A,N/A,prosise@prosise.net,N/A,GDC
+72,Andrea Rocchetto,Postdoctoral Researcher,N/A,N/A,N/A,N/A,N/A
+73,Michael Scott,Professor of Instruction,N/A,https://www.cs.utexas.edu/~scottm/,scottm@cs.utexas.edu ,(512) 471-9785 ,GDC 6.304
+74,Supreeth Shastri,Postdoctoral Fellow,N/A,https://www.cs.utexas.edu/~shastri/,shastri@umass.edu,N/A,N/A
+75,Paul Toprac,Professor of Instruction,N/A,https://gamedev.utexas.edu,topcat@cs.utexas.edu ,(512) 471-9574, GDC 6.318
+76,William Young,Associate Professor of Instruction ,N/A,http://www.cs.utexas.edu/~byoung/,byoung@cs.utexas.edu ,(512) 471-9782, GDC 7.810
+77,George Biros,"W. A. ""Tex"" Moncrief, Jr. Endowment in Simulation-Based Engineering and Sciences Chair No. 2 Professor, ",N/A,http://users.ices.utexas.edu/~biros/,biros@ices.utexas.edu,(512) 232-9566,POB 5.234
+78,Alan Bovik,Cockrell Family Regents Chair in Engineering #3,N/A,http://live.ece.utexas.edu/bovik.php,bovik@ece.utexas.edu,(512) 471-5370,EER 7.862
+79,Alexandros Dimakis,Fluor Centennial Teaching Fellowship in Engineering #2 Associate Professor,N/A,http://users.ece.utexas.edu/~dimakis/index.html,alex.dimakis@gmail.com,(512) 471-3068,EER 6.816
+80,Ron Elber,"W.A. ""Tex"" Moncrief Chair in Computational Life Sciences and Biology Professor",N/A,http://elber.cm.utexas.edu/research/,ron@ices.utexas.edu,(512) 232-5415,POB 4.422
+81,Katrin Erk,"Professor, Department of Linguistics",N/A,http://www.katrinerk.com,katrin.erk@mail.utexas.edu ,N/A,RLP 4.734
+82,Vijay K Garg,Cullen Trust for Higher Education Endowed Professorship in Engineering #5,N/A,http://users.ece.utexas.edu/~garg/,garg@ece.utexas.edu,(512) 471-9424,EER 7.884 
+83,Omar Ghattas,John A. and Katherine G. Jackson Chair in Computational Geosciences Professor,N/A,http://users.ices.utexas.edu/~omar/,omar@ices.utexas.edu ,(512) 232-4304 ,POB 4.236 
+84,Matthew Lease,Louis T. Yule Regents Professorship in Library and Information Science,N/A,https://www.ischool.utexas.edu/~ml/,ml@utexas.edu,(512) 471-9350,UTA 5.536
+85,J. Tinsley Oden ,"Associate Vice President for Research, Founding Director of Institute for Computational Engineering and Sciences, Cockrell Family Regents’ Chair in Engineering #2,",N/A,https://www.ices.utexas.edu/sites/oden/,oden@ices.utexas.edu ,(512) 471-3312,POB 6.324
+86,David Zhigang Pan,"Professor, Department of Electrical & Computer Engineering",N/A,http://users.ece.utexas.edu/~dpan/,dpan@ece.utexas.edu ,(512) 471-1436,EER 4.880
+87,Karen E. Willcox,"Director, Oden Institute for Computational Engineering and Sciences, W. A. “Tex” Moncrief, Jr. Chair in Simulation-Based Engineering and Sciences , Peter O'Donnell, Jr. Centennial Chair in Computing Systems",N/A,http://kiwi.ices.utexas.edu/,kwillcox@oden.utexas.edu,512-471-3312,POB 4.427
+88,Lorenzo Alvisi,"Professor Emeritus in Computer Sciences #5, Distinguished Teaching Professor Emeritus","Operating systems, Distributed systems, and Networking",http://www.cs.cornell.edu/lorenzo/,lorenzo@cs.cornell.edu,(607) 255-4289 ,413A Gates Hall (Cornell University)
+89,Vijay Chidambaram,"Assistant Professor, Faculty Fellowship #4 In Computer Sciences","Operating systems, Distributed systems, and Networking",http://www.cs.utexas.edu/~vijay/,vijay@cs.utexas.edu ,(512) 471-9549,N/A
+90,Simon Lam,Regents' Chair Emeritus in Computer Sciences #1,"Operating systems, Distributed systems, and Networking",http://www.cs.utexas.edu/users/lam/,lam@cs.utexas.edu,(512) 471-9531,GDC 6.826
+91,Simon Peter,"Assistant Professor, Faculty Fellowship #10 In Computer Sciences","Operating systems, Distributed systems, and Networking",http://www.cs.utexas.edu/~simon/,simon@cs.utexas.edu,(512) 232-7414,GDC 6.430
+92,Lili Qiu,Professor,"Operating systems, Distributed systems, and Networking",http://www.cs.utexas.edu/~lili/,lili@cs.utexas.edu,(512) 232-7890,GDC 6.806
+93,Christopher Rossbach,"Assistant Professor, Faculty Fellowship #6 In Computer Sciences","Operating systems, Distributed systems, and Networking",https://www.cs.utexas.edu/~rossbach/,rossbach@cs.utexas.edu,(512) 471-9732,GDC 6.508
+94,Keshav Pingali,"Professor, W.A.""Tex"" Moncrief Chair of Grid and Distributed Computing",Programming Languages and Implementation,http://www.cs.utexas.edu/~pingali/,pingali@cs.utexas.edu ,(512) 232-6567,POB 4.126A
+95,Alan Cline,"David Bruton, Jr. Centennial Professor Emeritus in Computer Sciences #2, Distinguished Teaching Professor Emeritus",Scientific Computing,N/A,cline@cs.utexas.edu,(512) 471-9717,N/A
+96,Robert van de Geijn,Professor,Scientific Computing,http://www.cs.utexas.edu/~rvdg/, rvdg@cs.utexas.edu ,(512) 471-9720, GDC 5.704
+97,Field G. Van Zee,Research Scientist,Scientific Computing,http://www.cs.utexas.edu/users/field/,field@cs.utexas.edu ,(512) 415-2863,GDC 5.806
+98,Oliver Jensen,Adjunct Assistant Professor,Security,https://www.cs.utexas.edu/~ojensen/,ojensen@cs.utexas.edu,N/A,N/A
+99,Hovav Shacham,"Professor, Professorship in Computer Sciences #5",Security,https://www.cs.utexas.edu/~hovav/,hovav@cs.utexas.edu ,(512) 471-9792,GDC 6.510
+100,Brent Waters,Professor,Security,http://www.cs.utexas.edu/~bwaters/,bwaters@cs.utexas.edu,(512) 232-7464,GDC 6.810
+101,Scott Aaronson,"Professor, David Bruton, Jr. Centennial Professorship in Computer Sciences #2",Theoretical Computer Science,https://www.scottaaronson.com,aaronson@cs.utexas.edu,(512) 471-7797,GDC 4.422
+102,Anna Gal,Professor,Theoretical Computer Science,http://www.cs.utexas.edu/~panni/,panni@cs.utexas.edu ,(512) 471-9539 ,GDC 4.420
+103,Dana Moshkovitz,Associate Professor,Theoretical Computer Science,https://www.cs.utexas.edu/~danama/,https://www.cs.utexas.edu/~danama/ ,(512) 471-3905,GDC 4.432
+104,Greg Plaxton,Professor,Theoretical Computer Science,http://www.cs.utexas.edu/~plaxton/,plaxton@cs.utexas.edu,(512) 471-9751,GDC 4.512
+105,Eric Price,Associate Professor,Theoretical Computer Science,http://www.cs.utexas.edu/~ecprice/,ecprice@cs.utexas.edu,(512) 475-8048,GDC 4.510
+106,Vijaya Ramachandran,"Professor, William Blakemore II Regents Professorship In Computer Sciences",Theoretical Computer Science,http://www.cs.utexas.edu/~vlr/,vlr@cs.utexas.edu,(512) 471-9554,GDC 4.430
+107,John Wright,Assistant Professor,Theoretical Computer Science,https://www.cs.utexas.edu/~wright/,N/A,N/A,N/A
+108,David Zuckerman ,"Professor, Professorship In Computer Sciences #1",Theoretical Computer Science,http://www.cs.utexas.edu/~diz/,diz@cs.utexas.edu ,(512) 471-9729,GDC 4.508
